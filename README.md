@@ -6,3 +6,5 @@ A compact, hands-on implementation and set of notebooks for exploring Quantum Ma
 * implementing quantum-enhanced similarity/kernel methods,
 * running experiments on simulators and (optionally) quantum backends,
 * visualizing and analyzing results with clear baselines and metrics.
+
+WIP :)
